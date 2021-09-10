@@ -4,7 +4,7 @@ Who does not like postcards? This is one of your first exercises (if not the fir
 
 Lets create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
 
-## 🌱  How to start this projec
+## 🌱  How to start this project
 
 This project comes with the necessary files to start working, so you just need to clone its repository to start. You have two options for that:
 
@@ -14,7 +14,7 @@ a) Most 4Geeks students should open this project with Gitpod by simply clicking 
 
 + You can start your Github account at:  https://github.com/
  
- b)Only if the method above is not possible, and you need to work locally in an IDE on your computer, you can clone the project by running the below command in the terminal of your IDE: 
+b) Only if the method above is not possible, and you need to work locally in an IDE on your computer, you can clone the project by running the below command in the terminal of your IDE: 
 
 ```
 $ git clone  https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git 
@@ -28,7 +28,11 @@ $ learnpack start
 
 ## Instructions
 
+<<<<<<< HEAD
+Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/preview.png?raw=true).
+=======
 Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png).
+>>>>>>> a0f74845850eb41d6b4afb811499699acf6ec722
 
 <p><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true" /></p>
 
@@ -36,7 +40,11 @@ Here is the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postc
 
 ## Create by drawing your strategy
 
+<<<<<<< HEAD
+![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/strategy.gif?raw=true)
+=======
 ![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true)
+>>>>>>> a0f74845850eb41d6b4afb811499699acf6ec722
 
 ## What to do if you are stuck?
 
